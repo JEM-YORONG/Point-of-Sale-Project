@@ -1,0 +1,72 @@
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.SuggestedBindingRedirects.cache
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddSuppliers.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddProducts.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewProducts.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewSuppliers.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Billing.resources
+D:\Program Files\Visual Studio Files\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewBills.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddProducts.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddSuppliers.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Billing.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewBills.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewProducts.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewSuppliers.resources
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\Mathew Bilaro\Downloads\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.SuggestedBindingRedirects.cache
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddProducts.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddSuppliers.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Billing.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewBills.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewProducts.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewSuppliers.resources
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\SchoolWorks\Third Year College\Event-Driven Programming\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.SuggestedBindingRedirects.cache
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddProducts.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.AddSuppliers.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Billing.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Form1.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Login.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewBills.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewProducts.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ViewSuppliers.resources
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\pme54\OneDrive\Desktop\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
